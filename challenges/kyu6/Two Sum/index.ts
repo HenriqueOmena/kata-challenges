@@ -14,6 +14,8 @@ const twoSum = (numbers: number[], target: number): number[] => {
   return [];
 };
 
+
+console.log('just a test to commit')
 console.log(twoSum([1, 3, 9, 7, 2], 11), "expected [3,4]");
 console.log(twoSum([2, 7, 3, 123], 9), "expected [1,2]");
 
